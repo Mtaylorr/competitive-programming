@@ -1,3 +1,5 @@
+// this algorithm calculates the number of ordered pairs of numbers x, y such that (a<=x<=b and c<=y<=d) that are coprimes.
+
 #include <bits/stdc++.h>
  
     using namespace std;
