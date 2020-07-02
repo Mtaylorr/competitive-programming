@@ -110,7 +110,7 @@ void build_sparse(vector<int>const& lcp){
     }
     for(int i=0;i<n;i++){
         for(int j=0;j<=log_n;j++){
-            sp[i][j]=0;
+            sp[j][i]=0;
         }
     }
     for(int i=0;i<n;i++){
