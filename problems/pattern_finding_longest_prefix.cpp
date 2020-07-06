@@ -1,3 +1,5 @@
+// build_SA runs in O(length(s)) if we consider that the size of the alphabet is constant
+// runs in O(length(P)) for each string 
 #include <bits/stdc++.h>
 
 using namespace std;
