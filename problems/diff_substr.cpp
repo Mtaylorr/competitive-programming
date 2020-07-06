@@ -1,3 +1,4 @@
+// runs in O(length(s))
 #include <bits/stdc++.h>
 
 using namespace std;
